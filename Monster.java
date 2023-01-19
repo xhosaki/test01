@@ -21,4 +21,3 @@ public class Monster {
     return this.name + ":レア度[" + this.rare + "]";
   }
 }
-
